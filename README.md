@@ -5,9 +5,9 @@
 
    ### 1. misc
    
-          * Tri très sélectif
-          * Des p'tits trous
-          * Rechatdrage
+* Tri très sélectif
+* Des p'tits trous
+* Rechatdrage
 
    ### 2. Side Channel and Fault Attacks 
 
