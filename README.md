@@ -1,42 +1,43 @@
 # FCSC2023
 ## Challenge de l'ANSSI de 2023 à https://france-cybersecurity-challenge.fr/challenges
 
-Quelques résolutions sur lesquelles l'accent est mis concernent ces divers domaines :
+## Quelques résolutions sur lesquelles l'accent est mis concernent les domaines suivants :
 
-    ** misc **
-      *  Des p'tits trous *
-      *  Tris très sélectif *
-      *  Rechatdrage *
+   1. misc 
+   
+      *  Des p'tits trous 
+      *  Tris très sélectif 
+      *  Rechatdrage 
 
-    ** Side Channel and Fault Attacks **
+   2. Side Channel and Fault Attacks 
 
-      *  Lapin blanc *
+      *  Lapin blanc 
  
-    ** forensics **
+   3. forensics 
 
-      *  Weird Shell *    
+      *  Weird Shell   
        
-    ** hardware **
+   4. hardware 
 
-      *  Fibonacci *
+      *  Fibonacci 
       
-     ** web **
+   5. web 
 
-      *  ENISA Flag Store 1/2 *
+      *  ENISA Flag Store 1/2 
       
-     ** intro **
+    6. intro 
 
-      *  uid *
-      *  La gazette de Windows *
-      *  Tri sélectif *
-      *  Comparaison *
-      *  ROT 13 *
-      *  T'es lent *
-      *  Aaarg *
+      *  uid 
+      *  La gazette de Windows 
+      *  Tri sélectif 
+      *  Comparaison 
+      *  ROT 13 
+      *  T'es lent 
+      *  Aaarg 
       
-     ** welcome **
+     ** welcome 
 
-      *  n3tc4t *
-      *  Discord *
-      *  Feedback *
+      *  n3tc4t 
+      *  Discord 
+      *  Feedback 
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
