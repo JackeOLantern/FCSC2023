@@ -3,29 +3,29 @@
 
 ### Quelques résolutions sur lesquelles l'accent est mis concernent les domaines suivants :
 
-   1. misc 
+   ### 1. misc 
    
       *  Des p'tits trous 
       *  Tris très sélectif 
       *  Rechatdrage 
 
-   2. Side Channel and Fault Attacks 
+   ### 2. Side Channel and Fault Attacks 
 
       *  Lapin blanc 
  
-   3. forensics 
+   ### 3. forensics 
 
       *  Weird Shell   
        
-   4. hardware 
+   ### 4. hardware 
 
       *  Fibonacci 
       
-   5. web 
+   ### 5. web 
 
       *  ENISA Flag Store 1/2
 
-   6. intro 
+   ### 6. intro 
 
       *  uid 
       *  La gazette de Windows 
@@ -35,7 +35,7 @@
       *  T'es lent 
       *  Aaarg 
       
-   7. welcome 
+   ### 7. welcome 
 
       *  n3tc4t 
       *  Discord 
