@@ -1,7 +1,7 @@
 # FCSC2023
 ## Challenge de l'ANSSI de 2023 à https://france-cybersecurity-challenge.fr/challenges
 
-## Quelques résolutions sur lesquelles l'accent est mis concernent les domaines suivants :
+### Quelques résolutions sur lesquelles l'accent est mis concernent les domaines suivants :
 
    1. misc 
    
@@ -23,9 +23,9 @@
       
    5. web 
 
-      *  ENISA Flag Store 1/2 
-      
-    6. intro 
+      *  ENISA Flag Store 1/2
+
+   6. intro 
 
       *  uid 
       *  La gazette de Windows 
@@ -35,9 +35,10 @@
       *  T'es lent 
       *  Aaarg 
       
-     ** welcome 
+   7. welcome 
 
       *  n3tc4t 
       *  Discord 
-      *  Feedback 
+      *  Feedback
+      
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
