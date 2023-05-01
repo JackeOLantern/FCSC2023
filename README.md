@@ -3,40 +3,40 @@
 
 Quelques résolutions sur lesquelles l'accent est mis concernent ces divers domaines :
 
-    ### misc
-      *  Des p'tits trous
-      *  Tris très sélectif
-      *  Rechatdrage
+    ** misc **
+      *  Des p'tits trous *
+      *  Tris très sélectif *
+      *  Rechatdrage *
 
-    ### Side Channel and Fault Attacks
+    ** Side Channel and Fault Attacks **
 
-      *  Lapin blanc
+      *  Lapin blanc *
  
-     ### forensics
+    ** forensics **
 
-      *  Weird Shell     
+      *  Weird Shell *    
        
-     ### hardware
+    ** hardware **
 
-      *  Fibonacci
+      *  Fibonacci *
       
-     ### web
+     ** web **
 
-      *  ENISA Flag Store 1/2
+      *  ENISA Flag Store 1/2 *
       
-     ### intro
+     ** intro **
 
-      *  uid
-      *  La gazette de Windows
-      *  Tri sélectif
-      *  Comparaison
-      *  ROT 13
-      *  T'es lent
-      *  Aaarg
+      *  uid *
+      *  La gazette de Windows *
+      *  Tri sélectif *
+      *  Comparaison *
+      *  ROT 13 *
+      *  T'es lent *
+      *  Aaarg *
       
-      ### welcome
+     ** welcome **
 
-      *  n3tc4t
-      *  Discord
-      *  Feedback
+      *  n3tc4t *
+      *  Discord *
+      *  Feedback *
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
