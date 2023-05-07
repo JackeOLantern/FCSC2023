@@ -24,6 +24,7 @@
  ### 5. web 
 
 * ENISA Flag Store 1/2
+* ENISA Flag Store 2/2 (fun !)
 
  ### 6. intro 
 
