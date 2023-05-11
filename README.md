@@ -24,7 +24,7 @@
  ### 5. web 
 
 * ENISA Flag Store 1/2
-* ENISA Flag Store 2/2 (New !)
+* ENISA Flag Store 2/2 (📧 👎)
 
  ### 6. intro 
 
@@ -41,6 +41,7 @@
 * n3tc4t 
 * Discord 
 * Feedback
+* Teaser ( 🦖 🚱)
       
       
 
