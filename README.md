@@ -44,6 +44,6 @@
       
       
 
-***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1) ***
+***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
 
-***![Intermédiaire...Classe Gravillon !](https://github.com/JackeOLantern/FCSC2023/issues/2) ***
+***![Intermédiaire...Classe Gravillon !](https://github.com/JackeOLantern/FCSC2023/issues/2)***
