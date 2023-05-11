@@ -24,7 +24,7 @@
  ### 5. web 
 
 * ENISA Flag Store 1/2
-* ENISA Flag Store 2/2 (fun !)
+* ENISA Flag Store 2/2 (New !)
 
  ### 6. intro 
 
@@ -43,4 +43,6 @@
 * Feedback
       
       
+
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
+***![Intermédiaire...Clasee Gravillon !](https://github.com/JackeOLantern/FCSC2023/issues/2)***
