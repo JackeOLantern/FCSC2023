@@ -47,8 +47,11 @@
 
 
      
+
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
+
 
 ***![Intermédiaire...Classe Gravillon !](https://github.com/JackeOLantern/FCSC2023/issues/2)***
 
-***![Cybermois ...and FCSC2023 !](https://github.com/JackeOLantern/FCSC2023/issues/3))***
+
+***![Cybermois ...and FCSC2023 !](https://github.com/JackeOLantern/FCSC2023/issues/3)***
