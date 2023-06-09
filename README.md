@@ -43,7 +43,8 @@
 * Feedback
 * Teaser ( 🦖 🚱)
 
-***! 🥮 🍰 🥞 🧁 🍥 : MAJ suite au 404CTF ([Cybermois ...and FCSC2023 !](https://github.com/JackeOLantern/FCSC2023/issues/3))***
+***! 🥮 🍰 🥞 🧁 🍥 
+***![Cybermois ...and FCSC2023 !](https://github.com/JackeOLantern/FCSC2023/issues/3))***
      
 
 ***![Interlude...Puzzle Pupuce !](https://github.com/JackeOLantern/FCSC2023/issues/1)***
